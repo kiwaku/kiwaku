@@ -7,10 +7,9 @@ Student at the University of Manchester
 descdesc
 
 *   🌍  I'm based in Manchester & Tokyo
-*   🖥️  See my portfolio at [Portfolio Website](http://kiwaku.github.io/KayraAraiOzturk/)
+*   🖥️  See my portfolio [here](http://kiwaku.github.io/KayraAraiOzturk/)
 *   ✉️  You can contact me at [kayraaraio@gmail.com](mailto:kayraaraio@gmail.com)
 *   🧠  I'm learning BCI EEG & ML stuff
-*   ⚡  it is what it is
 
 ### Skills
 
