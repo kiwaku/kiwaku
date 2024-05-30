@@ -1,4 +1,4 @@
-Hi 👋 I'm Kayra Arai Ozturk
+Hi, I'm Kayra Arai Ozturk
 ==================================
 
 Student at the University of Manchester
