@@ -4,7 +4,7 @@ Hi, I'm Kayra Arai Ozturk
 Student at the University of Manchester
 ---------------------------------------
 
-descdesc
+hogehoge
 
 *   🌍  I'm based in Manchester & Tokyo
 *   🖥️  See my portfolio [here](http://kiwaku.github.io/KayraAraiOzturk/)
