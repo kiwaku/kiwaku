@@ -1,15 +1,15 @@
 Hi, I'm Kayra Arai Ozturk
 ==================================
 
-Student at the University of Manchester
+University of Manchester
 ---------------------------------------
 
 hogehoge
 
-*   🌍  I'm based in Manchester & Tokyo
-*   🖥️  See my portfolio [here](http://kiwaku.github.io/KayraAraiOzturk/)
+*   🌍  I'm based in Vancouver & Tokyo
+*   🖥️  See my portfolio [here]([http://kiwaku.github.io/KayraAraiOzturk/](https://kayra-bios-portfolio.vercel.app))
 *   ✉️  You can contact me at [kayraaraio@gmail.com](mailto:kayraaraio@gmail.com)
-*   🧠  I'm learning BCI EEG & ML stuff
+*   🧠  I'm learning Binary exploitation and AI-assisted vulnerability research, especially where wireless protocols and automation meet
 
 ### Skills
 
