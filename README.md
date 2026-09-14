@@ -1,15 +1,17 @@
 Hi, I'm Kayra Arai Ozturk
 ==================================
 
-University of Manchester
+BSc Computer Science, Manchester '25 — security & systems engineering
 ---------------------------------------
 
 hogehoge
 
 *   🌍  I'm based in Vancouver & Tokyo
-*   🖥️  See my portfolio [here]([http://kiwaku.github.io/KayraAraiOzturk/](https://kayra-bios-portfolio.vercel.app))
+*   🖥️  See my portfolio [here]([https://kayra-bios-portfolio.vercel.app](https://kayra-bios-portfolio.vercel.app))
+*   🖥️  See all my projects [here]([https://kayra-almanac.vercel.app](https://kayra-almanac.vercel.app))
 *   ✉️  You can contact me at [kayraaraio@gmail.com](mailto:kayraaraio@gmail.com)
-*   🧠  I'm learning Binary exploitation and AI-assisted vulnerability research, especially where wireless protocols and automation meet
+*   🧠  I'm learning Binary exploitation and AI-assisted vulnerability research, especially wireless protocols and automation.
+*   Final-year research: hybrid spiking-neural-network object detection (from-scratch PyTorch/snnTorch implementation of CREST).
 
 ### Skills
 
