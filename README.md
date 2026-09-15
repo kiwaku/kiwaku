@@ -1,7 +1,7 @@
 Hi, I'm Kayra Arai Ozturk
 ==================================
 
-BSc Computer Science, Manchester '25 — security & systems engineering
+CS @ UOM '25 — security & systems engineering
 ---------------------------------------
 
 hogehoge
